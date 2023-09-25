@@ -274,7 +274,9 @@ public class Main {
                     break;
 
                 case 0:
-                    break;
+                    System.out.println("Cikis yapılıyor");
+                    return;
+
 
                 default:
                     break;
